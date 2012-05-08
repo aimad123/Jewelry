@@ -6,3 +6,6 @@ app/config/database.php
 !empty
 /nbproject/private/
 *.bak
+site/app/tmp/*
+site/app/tmp/cache/*
+site/app/tmp/cache/persistent/*
